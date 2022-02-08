@@ -1,2 +1,0 @@
-# whoami
-Who Is Paulioskos
